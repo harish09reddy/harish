@@ -1,5 +1,4 @@
 from __future__ import print_function
-
 try:
     raw_input          # Python 2
 except NameError:
